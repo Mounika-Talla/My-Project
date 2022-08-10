@@ -2,3 +2,4 @@ my first file
 adding content to first file
 modifying file1
 adding lines to file1
+adding third line to file1
